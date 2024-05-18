@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **soons1/soons1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 I’m currently a Computer Science sophmore at NUS
+- 🔭 I'm deeply passionate about security and software development!
+- 📫 Please feel free to reach out to me at soonwei.soh@u.nus.edu
+
+See you around!
