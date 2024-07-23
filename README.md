@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 I’m currently a Computer Science sophmore at NUS
+- 📚 I’m currently a rising Computer Science junior at NUS
 - 🔭 I'm deeply passionate about security and software development!
 - 📫 Please feel free to reach out to me at soonwei.soh@u.nus.edu
 
