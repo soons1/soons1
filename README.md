@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 I’m currently a penultimate Computer Science student at NUS
-- 🔭 I'm deeply passionate about security and software development!
+- 📚 I’m a final year Computer Science student at NUS
+- 🔭 I'm deeply passionate about product and software engineering!
 - 📫 Please feel free to reach out to me at soonwei.soh@u.nus.edu
 
 See you around!
